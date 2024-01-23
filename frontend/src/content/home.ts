@@ -1,0 +1,16 @@
+export default {
+  "home.title": "Bem vindo(a)!",
+  "home.create": "Criar",
+  "home.back": "Voltar",
+  "home.name": "Nome",
+  "home.lastname": "Sobrenome",
+  "home.birthday": "Data de Nascimento",
+  "home.cpf": "CPF",
+  "home.rg": "RG",
+  "home.street": "Logradouro",
+  "home.number": "Numero",
+  "home.zipcode": "CEP",
+  "home.complement": "Complemento",
+  "home.city": "Cidade",
+  "home.state": "Estado",
+} as const;
